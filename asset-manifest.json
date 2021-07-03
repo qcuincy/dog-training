@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dog-training/static/css/main.620e84eb.chunk.css",
+    "main.js": "/dog-training/static/js/main.544f5abf.chunk.js",
+    "main.js.map": "/dog-training/static/js/main.544f5abf.chunk.js.map",
+    "runtime-main.js": "/dog-training/static/js/runtime-main.9b749643.js",
+    "runtime-main.js.map": "/dog-training/static/js/runtime-main.9b749643.js.map",
+    "static/js/2.302b5efc.chunk.js": "/dog-training/static/js/2.302b5efc.chunk.js",
+    "static/js/2.302b5efc.chunk.js.map": "/dog-training/static/js/2.302b5efc.chunk.js.map",
+    "static/js/3.3a076d13.chunk.js": "/dog-training/static/js/3.3a076d13.chunk.js",
+    "static/js/3.3a076d13.chunk.js.map": "/dog-training/static/js/3.3a076d13.chunk.js.map",
+    "index.html": "/dog-training/index.html",
+    "static/css/main.620e84eb.chunk.css.map": "/dog-training/static/css/main.620e84eb.chunk.css.map",
+    "static/js/2.302b5efc.chunk.js.LICENSE.txt": "/dog-training/static/js/2.302b5efc.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/dog-training/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b749643.js",
+    "static/js/2.302b5efc.chunk.js",
+    "static/css/main.620e84eb.chunk.css",
+    "static/js/main.544f5abf.chunk.js"
+  ]
+}
